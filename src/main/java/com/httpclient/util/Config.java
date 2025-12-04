@@ -1,9 +1,6 @@
 package com.httpclient.util;
 
-/**
- * Configuration constants for testing APIs
- * We'll use public APIs that don't require authentication
- */
+
 public class Config {
 
     // REST API endpoints for testing
